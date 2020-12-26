@@ -1,0 +1,15 @@
+TODO:
+	UCI
+	
+	Quiescence checks
+	Transposition tables
+	Iterative deepening?
+	Better move ordering for alpha-beta
+	Endgame book moves
+	Pawn structure analysis
+	
+		--HIGH PRIORITY--
+	More test cases
+	Test PGN parsing move disambiguation (extensive test cases)
+	Bugs with opening book move parsing occasionally cause crashes (unusual moves like castling, disambiguation, checks, etc?)
+	
